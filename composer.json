@@ -1,0 +1,7 @@
+{
+    "name": "unlox775/StarkORM",
+    "version": "0.0.01",
+    "autoload": {
+        "files": ["Stark/debug.inc.php","ORM.class.php"]
+    }
+}
